@@ -10,7 +10,10 @@ void main()
           
           print(4-1);
           print(15/3);
-          print(true);   //true is boolean value.
+          print(true); 
+       
+          print("Parul university");
+       //true is boolean value.
           /* This is the 
           way of writing 
           multi line comment */
